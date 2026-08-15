@@ -125,6 +125,18 @@ MySpider().start()
   </tr>
   <tr>
     <td width="200">
+      <a href="https://birdproxies.com/t/scrapling" target="_blank" title="At Bird Proxies, we eliminate your pains such as banned IPs, geo restriction, and high costs so you can focus on your work.">
+        <img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/BirdProxies.jpg">
+      </a>
+    </td>
+    <td>プロキシは複雑で高価であるべきではないと考え、<a href="https://birdproxies.com/t/scrapling">
+        <b>BirdProxies</b>
+      </a>を構築しました。 <br /> 195以上のロケーションの高速レジデンシャル・ISPプロキシ、公正な価格設定、そして本物のサポート。 <br />
+      <b>ランディングページでFlappyBird ゲームを試して無料データをゲット！</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="200">
       <a href="https://evomi.com?utm_source=github&utm_medium=banner&utm_campaign=d4vinci-scrapling" target="_blank" title="Evomi is your Swiss Quality Proxy Provider, starting at $0.49/GB">
         <img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/evomi.png">
       </a>
@@ -175,6 +187,16 @@ MySpider().start()
     </td>
     <td>
     <a href="https://www.swiftproxy.net/?ref=D4Vinci" target="_blank">Swiftproxy</a> は195カ国以上、8,000万以上のIPを備えたスケーラブルな住宅用プロキシを提供し、高速で信頼性の高い接続、自動ローテーション、強力なブロック回避性能を実現します。無料トライアルあり。
+    </td>
+  </tr>
+  <tr>
+    <td width="200">
+      <a href="https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=scraping&utm_term=&utm_id=scraping" target="_blank" title="Real-Time Public Data, Ready to Use">
+        <img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/CoreClaw.jpg">
+      </a>
+    </td>
+    <td>
+    <a href="https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=scraping&utm_term=&utm_id=scraping" target="_blank">CoreClaw</a> はAIエージェント向けのWebデータAPIを提供します。Googleマップ、LinkedIn、Instagram、YouTube、Amazonなどの構造化データにアクセスできます。
     </td>
   </tr>
 </table>

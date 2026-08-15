@@ -125,6 +125,18 @@ MySpider().start()
   </tr>
   <tr>
     <td width="200">
+      <a href="https://birdproxies.com/t/scrapling" target="_blank" title="At Bird Proxies, we eliminate your pains such as banned IPs, geo restriction, and high costs so you can focus on your work.">
+        <img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/BirdProxies.jpg">
+      </a>
+    </td>
+    <td>مرحباً، لقد بنينا <a href="https://birdproxies.com/t/scrapling">
+        <b>BirdProxies</b>
+      </a> لأن البروكسيات لا يجب أن تكون معقدة أو باهظة الثمن. <br /> بروكسيات سكنية و ISP سريعة في أكثر من 195 موقعاً، أسعار عادلة، ودعم حقيقي. <br />
+      <b>جرّب لعبة FlappyBird على صفحة الهبوط للحصول على بيانات مجانية!</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="200">
       <a href="https://evomi.com?utm_source=github&utm_medium=banner&utm_campaign=d4vinci-scrapling" target="_blank" title="Evomi is your Swiss Quality Proxy Provider, starting at $0.49/GB">
         <img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/evomi.png">
       </a>
@@ -175,6 +187,16 @@ MySpider().start()
     </td>
     <td>
     يوفر <a href="https://www.swiftproxy.net/?ref=D4Vinci" target="_blank">Swiftproxy</a> بروكسيات سكنية قابلة للتوسع مع أكثر من 80 مليون عنوان IP في أكثر من 195 دولة، ويقدم اتصالات سريعة وموثوقة، وتدوير تلقائي، وأداء قوي ضد الحظر. تجربة مجانية متاحة.
+    </td>
+  </tr>
+  <tr>
+    <td width="200">
+      <a href="https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=scraping&utm_term=&utm_id=scraping" target="_blank" title="Real-Time Public Data, Ready to Use">
+        <img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/CoreClaw.jpg">
+      </a>
+    </td>
+    <td>
+    يوفر <a href="https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=scraping&utm_term=&utm_id=scraping" target="_blank">CoreClaw</a> واجهات برمجة تطبيقات لبيانات الويب مخصصة لوكلاء الذكاء الاصطناعي. احصل على بيانات منظمة من خرائط Google وLinkedIn وInstagram وYouTube وAmazon والمزيد.
     </td>
   </tr>
 </table>

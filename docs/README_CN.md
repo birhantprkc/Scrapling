@@ -125,6 +125,18 @@ MySpider().start()
   </tr>
   <tr>
     <td width="200">
+      <a href="https://birdproxies.com/t/scrapling" target="_blank" title="At Bird Proxies, we eliminate your pains such as banned IPs, geo restriction, and high costs so you can focus on your work.">
+        <img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/BirdProxies.jpg">
+      </a>
+    </td>
+    <td>嘿，我们创建了 <a href="https://birdproxies.com/t/scrapling">
+        <b>BirdProxies</b>
+      </a>，因为代理不应该复杂或昂贵。 <br /> 覆盖 195+ 地区的快速住宅和 ISP 代理，公平定价，真正的支持。 <br />
+      <b>在落地页试试我们的 FlappyBird 游戏，获取免费流量！</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="200">
       <a href="https://evomi.com?utm_source=github&utm_medium=banner&utm_campaign=d4vinci-scrapling" target="_blank" title="Evomi is your Swiss Quality Proxy Provider, starting at $0.49/GB">
         <img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/evomi.png">
       </a>
@@ -175,6 +187,16 @@ MySpider().start()
     </td>
     <td>
     <a href="https://www.swiftproxy.net/?ref=D4Vinci" target="_blank">Swiftproxy</a> 提供可扩展的住宅代理，覆盖 195+ 国家/地区的 8000 万+ IP，提供快速可靠的连接、自动轮换和强大的反屏蔽性能。提供免费试用。
+    </td>
+  </tr>
+  <tr>
+    <td width="200">
+      <a href="https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=scraping&utm_term=&utm_id=scraping" target="_blank" title="Real-Time Public Data, Ready to Use">
+        <img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/CoreClaw.jpg">
+      </a>
+    </td>
+    <td>
+    <a href="https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=scraping&utm_term=&utm_id=scraping" target="_blank">CoreClaw</a> 为 AI 智能体提供网络数据 API。获取来自 Google 地图、LinkedIn、Instagram、YouTube、Amazon 等平台的结构化数据。
     </td>
   </tr>
 </table>
